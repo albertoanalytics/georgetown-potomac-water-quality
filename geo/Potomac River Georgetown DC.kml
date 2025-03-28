@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Potomac River Georgetown DC</name>
+	<gx:CascadingStyle kml:id="__managed_style_0FEE5B7DA336FEBE6FBE">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_108D86EDE136FEBE6FBD">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0726C6EC2436FEBE6FBD">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_108D86EDE136FEBE6FBD</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FEE5B7DA336FEBE6FBE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0D0D65304036FEBE6FAC">
+		<name>Georgetown Waterfront</name>
+		<LookAt>
+			<longitude>-77.0686641544083</longitude>
+			<latitude>38.89513579592111</latitude>
+			<altitude>27.60709213353656</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4371.65087633708</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0726C6EC2436FEBE6FBD</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.06892306976445,38.90357660033958,0 -77.07011213688267,38.90105842340812,0 -77.0691094737583,38.90077839775346,0 -77.06842781705845,38.90050601359771,0 -77.06767245233972,38.89958844764245,0 -77.06671448395117,38.89957413008023,0 -77.06654868737631,38.89993256646054,0 -77.06649342392139,38.90014762523855,0 -77.06315914144665,38.90007617722809,0 -77.06170467897749,38.89983301741845,0 -77.06087679441703,38.89933196295947,0 -77.06010349717602,38.89837181551984,0 -77.0595746903418,38.89751948566641,0 -77.05960012458131,38.89661145742379,0 -77.05942602807336,38.89489532363057,0 -77.0593931258049,38.89377942210569,0 -77.05934373675201,38.89271481303544,0 -77.056245460545,38.89326613969496,0 -77.05670682949,38.8943436178489,0 -77.05690454347149,38.89492082340078,0 -77.05688787604052,38.89698587244033,0 -77.05680532497151,38.89835828631055,0 -77.05922916459613,38.90055094963004,0 -77.06169372876904,38.90151947204082,0 -77.06892306976445,38.90357660033958,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

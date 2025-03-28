@@ -1,0 +1,84 @@
+cff-version: 1.2.0
+message: "If you use this dataset or analysis, please cite it as below."
+authors:
+  - family-names: "Hernandez Alfonso"
+    given-names: "Alberto Freddy"
+    orcid: "https://orcid.org/0009-0008-3180-389X"  
+title: "Georgetown Potomac: Water Quality Analysis"
+version: 1.0.0
+date-released: 2025-03-24
+repository-code: "https://github.com/albertoanalytics/georgetown-potomac-satellite-analysis"
+license: MIT
+abstract: >
+  This project analyzes water quality parameters of the Potomac River
+  near Georgetown waterfront in Washington, DC using satellite remote
+  sensing data from 2023. The analysis implements a multi-parameter
+  approach using Sentinel-2 and Landsat-8 imagery to monitor NDWI,
+  chlorophyll-a, turbidity, and water temperature throughout the year.
+keywords:
+  - remote sensing
+  - water quality
+  - potomac river
+  - sentinel-2
+  - landsat-8
+  - ndwi
+  - chlorophyll
+  - turbidity
+references:
+  - authors:
+      - family-names: McFeeters
+        given-names: S.K.
+    title: "The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features"
+    journal: "International Journal of Remote Sensing"
+    volume: 17
+    issue: 7
+    year: 1996
+    doi: 10.1080/01431169608948714
+
+  - authors:
+      - family-names: Giardino
+        given-names: C.
+      - family-names: Brando
+        given-names: V.E.
+      - family-names: Gege
+        given-names: P.
+      - family-names: Pinnel
+        given-names: N.
+      - family-names: Hochberg
+        given-names: E.
+      - family-names: Knaeps
+        given-names: E.
+      - family-names: Reusen
+        given-names: I.
+      - family-names: Doerffer
+        given-names: R.
+      - family-names: Bresciani
+        given-names: M.
+      - family-names: Braga
+        given-names: F.
+      - family-names: Dekker
+        given-names: A.G.
+    title: "Imaging Spectrometry of Inland and Coastal Waters: State of the Art, Achievements and Perspectives"
+    journal: "Surveys in Geophysics"
+    volume: 40
+    issue: 3
+    year: 2019
+    doi: 10.1007/s10712-018-9476-0
+
+  - authors:
+      - family-names: Giardino
+        given-names: C.
+      - family-names: Brando
+        given-names: V.E.
+      - family-names: Dekker
+        given-names: A.G.
+      - family-names: Strömbeck
+        given-names: N.
+      - family-names: Candiani
+        given-names: G.
+    title: "Assessment of water quality in Lake Garda (Italy) using Hyperion"
+    journal: "Remote Sensing of Environment"
+    volume: 109
+    issue: 2
+    year: 2007
+    doi: 10.1016/j.rse.2006.12.017

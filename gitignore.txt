@@ -1,0 +1,37 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*~
+*.bak
+
+# Office temporary files
+~$*
+*.~*
+
+# Python cache if you add Python analysis
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# R files if you add R analysis
+.Rhistory
+.RData
+.Rproj.user/
+
+# Environment variables or config files
+.env
+config.json
+
+# Large data files (if needed)
+# *.tif
+# *.large.csv
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-*
