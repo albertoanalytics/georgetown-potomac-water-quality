@@ -1,4 +1,4 @@
-// Define your Potomac River polygon using the exact coordinates you provided
+// Define the Potomac River polygon using coordinates
 var potomacPolygon = ee.Geometry.Polygon([
   [
     [-77.06892306976445, 38.90357660033958],

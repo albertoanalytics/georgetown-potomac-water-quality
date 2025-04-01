@@ -111,4 +111,4 @@ Please follow these guidelines when contributing:
 3. Accept constructive criticism gracefully
 4. Focus on the quality of the science and code
 
-Thank you for helping improve our understanding of the Potomac River's water quality through remote sensing!
+Thank you for helping improve my understanding of the Potomac River's water quality through remote sensing!

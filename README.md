@@ -63,7 +63,7 @@ georgetown-potomac-water-quality/
 
 The analysis methodology combines:
 
-1. **Satellite Data Processing**: We use Sentinel-2 (for optical bands) and Landsat-8 (for temperature) imagery processed through Google Earth Engine.
+1. **Satellite Data Processing**: Sentinel-2 (for optical bands) and Landsat-8 (for temperature) imagery were processed through Google Earth Engine.
 
 2. **Water Quality Indices**: 
    - NDWI calculated from green and NIR bands
@@ -71,13 +71,13 @@ The analysis methodology combines:
    - Turbidity index based on red to green band ratio
    - Water temperature extracted from Landsat thermal band
 
-3. **Time Series Analysis**: We analyze temporal patterns across 2023 and their seasonal variations.
+3. **Time Series Analysis**: Temporal patterns were analyzed across 2023 and their seasonal variations.
 
 For detailed methodology, see `docs/methodology.md`.
 
 ## Seasonal Patterns
 
-Our analysis reveals distinct seasonal patterns in the Potomac River water quality:
+This analysis reveals distinct seasonal patterns in the Potomac River water quality:
 
 - **Spring**: Highest turbidity with fluctuating NDWI values
 - **Summer**: Highest water temperatures with stabilizing water quality parameters
